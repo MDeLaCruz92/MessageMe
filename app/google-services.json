@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836948293860",
+    "firebase_url": "https://messageme-1ad78.firebaseio.com",
+    "project_id": "messageme-1ad78",
+    "storage_bucket": "messageme-1ad78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836948293860:android:a910f48d04d908c9",
+        "android_client_info": {
+          "package_name": "mdelacruz.com.messageme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836948293860-nsr73alsqhs703e3ekd7b3v8n3jh17ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWBHlbVKnCbIWppSlUEZ0zU3F_v3gEJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
